@@ -2,7 +2,7 @@
 
 ## Screens
 
-- [] Home
-- [] TV Shows
-- [] Search
-- [] Detail
+- [ ] Home
+- [ ] TV Shows
+- [ ] Search
+- [ ] Detail
